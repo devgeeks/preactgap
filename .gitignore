@@ -1,0 +1,21 @@
+# Dependency directory
+node_modules
+
+# Webpack bundle
+www/bundle.js
+www/bundle.js.map
+www/style.css
+www/style.css.map
+
+# Cordova platforms and plugins
+plugins
+platforms
+
+# Mac
+.DS_Store
+**/*/.DS_Store
+
+# Logs
+logs
+*.log
+npm-debug.log*
