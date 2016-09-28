@@ -6,6 +6,7 @@ www/bundle.js
 www/bundle.js.map
 www/style.css
 www/style.css.map
+www/index.html
 
 # Cordova platforms and plugins
 plugins
